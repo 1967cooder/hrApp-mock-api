@@ -51,11 +51,7 @@
       "startDate": "2015-06-20",
       "location": "Chicago",
       "department": "Human Resources",
-      "skills": [
-        "Recruitment",
-        "Onboarding",
-        "Conflict Resolution"
-      ]
+      "skills": ["Recruitment", "Onboarding", "Conflict Resolution"]
     },
     {
       "id": "5",
@@ -68,11 +64,7 @@
       "startDate": "2020-11-05",
       "location": "Los Angeles",
       "department": "Sales",
-      "skills": [
-        "Negotiation",
-        "CRM",
-        "Networking"
-      ]
+      "skills": ["Negotiation", "CRM", "Networking"]
     },
     {
       "id": "6",
@@ -85,11 +77,7 @@
       "startDate": "2025-09-15",
       "location": "Boston",
       "department": "Marketing",
-      "skills": [
-        "SEO",
-        "Content Creation",
-        "Social Media"
-      ]
+      "skills": ["SEO", "Content Creation", "Social Media"]
     },
     {
       "id": "7",
@@ -102,11 +90,7 @@
       "startDate": "2010-08-25",
       "location": "Austin",
       "department": "Data Science",
-      "skills": [
-        "Python",
-        "Machine Learning",
-        "Data Visualization"
-      ]
+      "skills": ["Python", "Machine Learning", "Data Visualization"]
     },
     {
       "id": "8",
@@ -132,11 +116,7 @@
       "startDate": "2025-08-15",
       "location": "Miami",
       "department": "Customer Support",
-      "skills": [
-        "Communication",
-        "Problem Solving",
-        "Empathy"
-      ]
+      "skills": ["Communication", "Problem Solving", "Empathy"]
     },
     {
       "id": "10",
@@ -149,11 +129,7 @@
       "startDate": "2015-10-01",
       "location": "San Diego",
       "department": "QA",
-      "skills": [
-        "Testing",
-        "Automation",
-        "Selenium"
-      ]
+      "skills": ["Testing", "Automation", "Selenium"]
     },
     {
       "id": "11",
@@ -166,11 +142,7 @@
       "startDate": "2013-05-15",
       "location": "Houston",
       "department": "Business",
-      "skills": [
-        "Analytics",
-        "Process Mapping",
-        "SQL"
-      ]
+      "skills": ["Analytics", "Process Mapping", "SQL"]
     },
     {
       "id": "12",
@@ -183,40 +155,7 @@
       "startDate": "2024-06-01",
       "location": "Austin",
       "department": "Finance",
-      "skills": [
-        "Excel",
-        "Reporting"
-      ]
-    },
-    {
-      "id": "c292",
-      "name": "Silvana",
-      "title": ",m,m,m",
-      "salary": "6656",
-      "phone": "76768779",
-      "email": "silvanalindholm@hotmail.com",
-      "animal": "fox",
-      "startDate": "2025-11-21",
-      "location": "helsinki",
-      "department": "jhjhjh",
-      "skills": [
-        "kklkl",
-        "jkjkj",
-        "klklk"
-      ]
-    },
-    {
-      "id": "e01c",
-      "name": "Silvana",
-      "title": "uyuy",
-      "salary": "6656",
-      "phone": "76768779",
-      "email": "silvanalindholm@hotmail.com",
-      "animal": "fox",
-      "startDate": "2025-11-28",
-      "location": "Kuopio",
-      "department": "mnmn",
-      "skills": "m,jkjkj,kkl"
+      "skills": ["Excel", "Reporting"]
     }
   ]
 }
